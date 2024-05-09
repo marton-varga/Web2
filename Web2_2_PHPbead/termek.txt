@@ -1,0 +1,5 @@
+[
+"Nagyterem",
+"Kisterem",
+"Közepesterem"
+]

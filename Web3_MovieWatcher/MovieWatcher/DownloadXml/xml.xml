@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfXmlHelper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XmlHelper>
+    <Title>Q-Sétatér</Title>
+    <Added>2021-11-27T00:00:00</Added>
+  </XmlHelper>
+  <XmlHelper>
+    <Title>Értekezlet a(z) General csatornán</Title>
+    <Added>2021-11-21T00:00:00</Added>
+  </XmlHelper>
+  <XmlHelper>
+    <Title>A Neptun Árnyékában</Title>
+    <Added>2021-11-30T00:00:00</Added>
+  </XmlHelper>
+  <XmlHelper>
+    <Title>MegHÖKkentő kalandok</Title>
+    <Added>2021-11-30T00:00:00</Added>
+  </XmlHelper>
+  <XmlHelper>
+    <Title>asdfgh</Title>
+    <Added>2021-11-30T00:00:00</Added>
+  </XmlHelper>
+</ArrayOfXmlHelper>

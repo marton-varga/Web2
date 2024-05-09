@@ -1,0 +1,142 @@
+body{
+	background-color: grey;
+	margin: 0;
+}
+header{
+	margin: 0 0 2em 0;
+}
+#userName{
+	font-size: 1.2em;
+	display: inline;
+	float: right;
+	margin: 0.8em;
+}
+#userName form{
+	display: inline;
+	margin-left: 0.6em;
+}
+nav{
+	border: 2px solid black;
+	background-color: #AAA;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline;
+	padding: 0.8em;
+}
+nav ul li a{
+	text-decoration: none;
+	color: khaki;
+}
+nav ul li a:hover{
+	color: white;
+}
+nav ul li a.current{
+	font-weight: bold;
+}
+main{
+	width: 80vw;
+	margin: auto;
+	padding: 2em;
+	border: 4px inset beige;
+	border-radius: 4px;
+	background-color: #FFF5;
+}
+.box{
+	width: 70%;
+	border: 2px inset beige;
+	border-radius: 10px;
+	background-color: lightgray;
+	text-align: center;
+	margin: auto;
+	margin-top: 4em;
+	padding: 4em;
+}
+main table{
+	margin: auto;
+}
+main table, main table tr, main table th, main table td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 0.4em;
+}
+.message table{
+	margin: auto;
+}
+.message table, .message table tr, .message table th, .message table td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 0.4em;
+	text-align: left;
+}
+.flex-container{
+	margin: auto;
+	display: flex;
+	width: 100%;
+	border: 3px inset beige;
+}
+.flex-item-u{
+	text-align: center;
+	width: 50%;
+}
+.flex-item-a{
+	text-align: center;
+	width: 33.33%;
+}
+.flex-button{
+	font-size: 1.2em;
+	width: 100%;
+	background-color: #0000;
+	border: none;
+}
+.flex-button-post{
+	font-size: 1.2em;
+	width: 100%;
+	background-color: #f0f0f0;
+	border: none;
+}
+.flex-button:hover{
+	font-size: 1.2em;
+	width: 100%;
+	background-color: #f0f0f0;
+	border: none;
+}
+.main_row:hover{
+	background-color: #f0f0f0;
+}
+.main_row_selected{
+	background-color: #f0f0f0;
+}
+.sec_td{
+	background-color: #fff8;
+}
+h1{
+	text-align: center;
+}
+.left{
+	text-align: left;
+}
+.messageShader{
+	position: absolute;
+	top:0;
+	left:0;
+	width: 100vw;
+	height: 100vh;
+	background-color: #0008;
+}
+.message{
+	width: 80vw;
+	min-height: 30vh;
+	margin: auto;
+	margin-top: 20vh;
+	padding: 2em;
+	text-align: center;
+	background-color: lightgray;
+	border: 2px inset grey;
+	border-radius: 10px;
+}
+.error{
+	color: red;
+}

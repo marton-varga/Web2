@@ -1,0 +1,47 @@
+create table offices(id SERIAL PRIMARY KEY NOT NULL, name VARCHAR(50) NOT NULL, address INTEGER, rank VARCHAR(50));
+
+insert into offices values(0,'Budapesti főposta',0,'nemzetközi');
+insert into offices values(1,'Debreceni főposta',1,'nemzetközi');
+insert into offices values(2,'Miskolczi posta',10,'nemzetközi');
+
+
+create table addresses(id SERIAL PRIMARY KEY NOT NULL, country VARCHAR(50) NOT NULL, county VARCHAR(100) NOT NULL, settlement VARCHAR(50) NOT NULL, street VARCHAR(50) NOT NULL, number VARCHAR(20) NOT NULL, zipcode VARCHAR(20) NOT NULL);
+
+insert into addresses values(0,'Magyarország','Budapest','Budapest','Asd utca','42/A','1112');
+insert into addresses values(1,'Magyarország','Hajdú-Bihar','Debrecen','Nemtom utca','45','1992');
+insert into addresses values(2,'Magyarország','Hajdú-Bihar','Hajdúböszörmény','Valamilyen utca','3','4444');
+insert into addresses values(3,'Magyarország','Fejér','Sárbogárd','Semmi köz','63','2134');
+
+
+create table users(username VARCHAR(50) PRIMARY KEY NOT NULL, password VARCHAR(50) NOT NULL, locationId INTEGER NOT NULL, name VARCHAR(50) NOT NULL, email VARCHAR(50) NOT NULL);
+
+insert into users values('admin','admin',0,'Admin János','admin@asd.asd');
+
+
+
+create table packages(id SERIAL PRIMARY KEY NOT NULL, date DATE, senderId INTEGER NOT NULL, receiverId INTEGER NOT NULL, currentLocation INTEGER NOT NULL, arrived BOOLEAN NOT NULL, delivered BOOLEAN NOT NULL, pricePayed INTEGER NOT NULL, type VARCHAR(20) NOT NULL, elsobbsegi BOOLEAN NOT NULL, ajanlott BOOLEAN NOT NULL, suly INTEGER);
+
+insert into packages values(0,'2022-01-24',0,1,0,true,true,1000,'letter',false,false,null);
+insert into packages values(1,'2022-01-25',1,0,1,true,true,1500,'letter',false,true,null);
+insert into packages values(2,'2022-01-25',1,0,1,true,true,1500,'package',true,true,3212);
+insert into packages values(3,'2022-01-26',1,1,1,false,true,1320,'package',true,false,11);
+insert into packages values(4,'2022-01-26',1,1,0,true,false,1320,'package',true,false,12);
+insert into packages values(5,'2022-01-23',1,1,0,true,false,12000,'package',false,false,10);
+insert into packages values(12,'2022-01-23',1,1,0,false,false,12000,'package',false,false,10);
+
+
+create table persons(id SERIAL PRIMARY KEY NOT NULL, name VARCHAR(50) NOT NULL, addressId INTEGER NOT NULL);
+
+insert into persons values(0,'Józska Pista',2);
+insert into persons values(1,'Asd Gizella',3);
+
+
+
+create table prices(id SERIAL PRIMARY KEY NOT NULL, name VARCHAR(50) NOT NULL, price INTEGER NOT NULL);
+
+insert into prices values(0,'Levél',200);
+insert into prices values(1,'Csomag alapdíja',1000);
+insert into prices values(2,'Súly szorzó',300);
+insert into prices values(3,'Ajánlott',300);
+insert into prices values(4,'Elsőbbségi',200);
+insert into prices values(5,'Külföldi',1000);

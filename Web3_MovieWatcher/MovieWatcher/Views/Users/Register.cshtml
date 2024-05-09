@@ -1,0 +1,48 @@
+﻿@model UserRegisterWrapper
+@{
+    ViewData["Title"] = "Regisztráció";
+}
+@{bool[] err = ViewData["registerErrors"] as bool[]; }
+
+<div class="insetContent">
+    @using (Html.BeginForm("RegisterPost", "Users", FormMethod.Post))
+    {
+        @Html.LabelFor(user => user.UserName)
+        <br />
+        @Html.TextBoxFor(user => user.UserName, new { required = "required" })
+        @if (ViewData["registerErrors"] != null && (ViewData["registerErrors"] as bool[])[0])
+        {
+            <span class="errorMessage">A felhasználónév már foglalt!</span>
+        }
+        <br />
+        @Html.LabelFor(user => user.Email)
+        <br />
+        @Html.TextBoxFor(user => user.Email, new { type = "email" })
+        @if (ViewData["registerErrors"] != null && (ViewData["registerErrors"] as bool[])[1])
+        {
+            <br />
+            <span class="errorMessage">Az Email címről már regisztráltak!</span>
+        }
+        <br />
+        @Html.LabelFor(user => user.Name)
+        <br />
+        @Html.TextBoxFor(user => user.Name)
+        <br />
+        @Html.LabelFor(user => user.Password)
+        <br />
+        @Html.PasswordFor(user => user.Password, new { required = "required" })
+        <br />
+        @Html.LabelFor(user => user.Password2)
+        <br />
+        @Html.PasswordFor(user => user.Password2, new { required = "required" })
+        @if (ViewData["registerErrors"] != null && (ViewData["registerErrors"] as bool[])[2])
+        {
+            <br />
+            <span class="errorMessage">A jelszavak nem egyeznek!</span>
+        }
+        <br />
+        <br />
+        <input type="submit" value="Regisztrálok" />
+    }
+
+</div>

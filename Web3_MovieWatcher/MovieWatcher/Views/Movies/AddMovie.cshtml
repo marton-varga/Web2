@@ -1,0 +1,98 @@
+﻿@model AddFilmWrapper
+@{
+    ViewData["Title"] = "Új Film Hozzáadása";
+}
+<div class="insetContent">
+@using (Html.BeginForm("AddMoviePost", "Movies", FormMethod.Post))
+{
+    @Html.LabelFor(f => f.Title)
+    <br />
+    @Html.TextBoxFor(f => f.Title, new { required = "required" })
+    <br />
+    @Html.LabelFor(f => f.Year)
+    <br />
+    @Html.TextBoxFor(f => f.Year, new { type = "number", min = 1, required = "required" })
+    <br />
+    @Html.LabelFor(f => f.Style)
+    <br />
+    @Html.TextBoxFor(f => f.Style, new { required = "required" })
+    <br />
+    @Html.LabelFor(f => f.Director)
+    <br />
+    @Html.TextBoxFor(f => f.Director, new { required = "required" })
+    <br />
+
+    <p>Színészek</p>
+    <div id="addActors">
+        <input type="text" name="actor_0" id="actor_0" class="actorInput" /><button id="removeActor_0" class="removeActor">Törlés</button>
+        <br />
+    </div>
+    <br />
+    <button id="addActorButton">Új színész hozzáadása</button>
+    <br />
+
+    @Html.LabelFor(f => f.Watched)
+    <br />
+    @Html.TextBoxFor(f => f.Watched, new { type = "date" })
+    <br />
+    <br />
+    <input type="submit" value="Film hozzáadása" />
+}
+    </div>
+
+<script>
+    var actors;
+    function removeActor(e) {
+        e.preventDefault();
+        actors = [];
+        let len = document.getElementsByClassName("actorInput").length;
+        for (let i = 0; i < len; i++) {
+            if (document.getElementsByClassName("actorInput")[i].value != "") {
+                actors.push(document.getElementsByClassName("actorInput")[i].value);
+            }
+        }
+        actors.splice(e.target.id.split("_")[1], 1);
+        for (let i = 0; i < document.getElementsByClassName("removeActor").length; i++) {
+            document.getElementsByClassName("removeActor")[i].removeEventListener("click", removeActor, false);
+        }
+        len = actors.length;
+        document.getElementById("addActors").innerHTML = "";
+        for (let i = 0; i < len; i++) {
+            document.getElementById("addActors").innerHTML += "<input type='text' value='" + actors[i] + "' name='actor_" + i + "' id='actor_" + i + "' class='actorInput'/>";
+            document.getElementById("addActors").innerHTML += "<button id='removeActor_" + i + "' class='removeActor'>Törlés</button><br /><br />";
+        }
+        document.getElementById("addActors").innerHTML += "<input type='text' name='actor_" + len + "' id='actor_" + len + "' class='actorInput'/>";
+        document.getElementById("addActors").innerHTML += "<button id='removeActor_" + len + "' class='removeActor'>Törlés</button><br />";
+        for (let i = 0; i < document.getElementsByClassName("removeActor").length; i++) {
+            document.getElementsByClassName("removeActor")[i].addEventListener("click", removeActor, false);
+        }
+    }
+    function addActorButtonClick(e) {
+        e.preventDefault();
+        actors = [];
+        let len = document.getElementsByClassName("actorInput").length;
+        for (let i = 0; i < document.getElementsByClassName("removeActor").length; i++) {
+            document.getElementsByClassName("removeActor")[i].removeEventListener("click", removeActor, false);
+        }
+        for (let i = 0; i < len; i++) {
+            if (document.getElementsByClassName("actorInput")[i].value != '' && document.getElementsByClassName("actorInput")[i].value != undefined) {
+                actors.push(document.getElementsByClassName("actorInput")[i].value);
+            }
+        }
+        console.log(actors);
+        len = actors.length;
+        document.getElementById("addActors").innerHTML = "";
+        for (let i = 0; i < len; i++) {
+            document.getElementById("addActors").innerHTML += "<input type='text' value='" + actors[i] + "' name='actor_" + i + "' id='actor_" + i + "' class='actorInput'/>";
+            document.getElementById("addActors").innerHTML += "<button id='removeActor_" + i + "' class='removeActor'>Törlés</button><br /><br />";
+        }
+        document.getElementById("addActors").innerHTML += "<input type='text' name='actor_" + len + "' id='actor_" + len + "' class='actorInput'/>";
+        document.getElementById("addActors").innerHTML += "<button id='removeActor_" + len + "' class='removeActor'>Törlés</button><br />";
+        for (let i = 0; i < document.getElementsByClassName("removeActor").length; i++) {
+            document.getElementsByClassName("removeActor")[i].addEventListener("click", removeActor, false);
+        }
+    }
+
+    document.getElementsByClassName("removeActor")[0].addEventListener("click", removeActor, false);
+    document.getElementById("addActorButton").addEventListener('click', addActorButtonClick, false);
+</script>

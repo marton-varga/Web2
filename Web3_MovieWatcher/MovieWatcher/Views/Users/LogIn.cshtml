@@ -1,0 +1,25 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Bejelentkezés";
+}
+
+<div class="insetContent">
+
+    @using (Html.BeginForm("LogInPost", "Users", FormMethod.Post))
+    {
+        @Html.LabelFor(user => user.Email)
+        <br />
+        @Html.TextBoxFor(user => user.Email)
+        <br />
+        @Html.LabelFor(user => user.Password)
+        <br />
+        @Html.PasswordFor(user => user.Password)
+        <br /><br />
+        <input type="submit" value="Belépek" />
+    }
+    @if (ViewData["loginError"] != null)
+    {
+        <p class="errorMessage">@ViewData["loginError"]</p>
+    }
+
+</div>

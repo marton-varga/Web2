@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="CSS.css">
+<title>Connect Four</title>
+</head>
+<body>
+
+<div id="palya">
+
+	<div id="menu">
+		<div id="menucontainer">
+			<div id="menucontent">
+				<h1>Connect Four</h1>
+
+				<input type="button" value="Start" id="start"><br>
+				<input type="button" value="Mentett játék betöltése" id="mentesek"><br>
+
+				<label for="player1">1. játékos:</label>
+				<input type="text" value="1. játékos" id="player1"><br>
+				<label for="player2">2. játékos:</label>
+				<input type="text" value="2. játékos" id="player2">
+				<span style="display: inline-block"><label for="gep">Gépi játékos</label>
+				<input type="checkbox" id="gep"></span><br>
+
+				<div id="jatekoslista">
+				<table id="jatekostabla">
+				<caption>Eddigi játékosok</caption><tr id="uH"><th>1. játékos</th><th>2. játékos</th><th>1. nyert</th><th>2. nyert</th><th>döntetlen</th></tr>
+				</table>
+				</div>
+				
+				<br>
+				<input type=number id="idolimitnum" value="30" step="10" min="0" max="300" disabled>
+				<label for="idolimit">Időlimit</label>
+				<input type="checkbox" id="idolimit"><br>
+				<input type="button" value="Játékszabály" id="jatekszabaly"><br>
+			</div>
+
+			<div id="mentesoldal">
+				<table id="mentestabla">
+				<caption>Mentett játékok</caption>
+				<tr>
+				<th>Dátum</th>
+				<th>Állapot</th>
+				</tr>
+				</table>
+				<input type="button" value="Vissza" id="menteskilep">
+			</div>
+			
+			<div id="szabaly">
+				<h2>Játékszabály</h2>
+				<p>A játékosok felülről csúsztatják bele a táblába a saját színeiket felváltva.</p>
+				<p>Az a játékos nyer, amelyik függőlegesen, vízszintesen, vagy átlósan kirakott négyet a saját színéből.</p>
+				<p>A pálya felett a korongot egérrel vagy a billentyűzet jobbra-balra nyilaival lehet mozgatni, a korongot bedobni enter vagy szóköz billentyűvel lehet.</p>
+				<input type="button" value="Vissza" id="szabalykilep">
+			</div>
+		</div>
+	</div>
+
+	<div id="game">
+		<div id="winrow">
+			<p></p>
+			<input type="button" value="Új játlék" id="ujjatek">
+			<input type="button" value="Vissza a menübe" id="visszamenu">
+		</div>
+		<div id="topbar">
+			<div id="buttons">
+				<input type="button" value="Mentés" id="mentes">
+				<br>
+				<input type="button" value="Menü" id="menugomb">
+			</div>
+			<div id="playerbox">
+				<div id="p1name"></div>
+				<div id="p2name"></div>
+				<div id="draws"></div>
+			</div>
+			<div id="counter"></div>
+		</div>
+
+		<div id="tabla">
+						
+			<div id="hoverkorongrow">
+				<table id="hoverkorongtable">
+				<tr>
+				<td id="h0">
+				<div id="hoverkorong1"></div>
+				</td>
+				<td id="h1"></td>
+				<td id="h2"></td>
+				<td id="h3"></td>
+				<td id="h4"></td>
+				<td id="h5"></td>
+				<td id="h6"></td>
+				</tr></table>
+			</div>
+			<div id="tablak">
+			
+				<table id="contenttable">
+				<tr>
+				<td id="c00"><div class="korong0"></div></td>
+				<td id="c01"><div class="korong0"></div></td>
+				<td id="c02"><div class="korong0"></div></td>
+				<td id="c03"><div class="korong0"></div></td>
+				<td id="c04"><div class="korong0"></div></td>
+				<td id="c05"><div class="korong0"></div></td>
+				<td id="c06"><div class="korong0"></div></td>
+				</tr>
+				<tr>
+				<td id="c10"><div class="korong0"></div></td>
+				<td id="c11"><div class="korong0"></div></td>
+				<td id="c12"><div class="korong0"></div></td>
+				<td id="c13"><div class="korong0"></div></td>
+				<td id="c14"><div class="korong0"></div></td>
+				<td id="c15"><div class="korong0"></div></td>
+				<td id="c16"><div class="korong0"></div></td>
+				</tr>
+				<tr>
+				<td id="c20"><div class="korong0"></div></td>
+				<td id="c21"><div class="korong0"></div></td>
+				<td id="c22"><div class="korong0"></div></td>
+				<td id="c23"><div class="korong0"></div></td>
+				<td id="c24"><div class="korong0"></div></td>
+				<td id="c25"><div class="korong0"></div></td>
+				<td id="c26"><div class="korong0"></div></td>
+				</tr><tr>
+				<td id="c30"><div class="korong0"></div></td>
+				<td id="c31"><div class="korong0"></div></td>
+				<td id="c32"><div class="korong0"></div></td>
+				<td id="c33"><div class="korong0"></div></td>
+				<td id="c34"><div class="korong0"></div></td>
+				<td id="c35"><div class="korong0"></div></td>
+				<td id="c36"><div class="korong0"></div></td>
+				</tr><tr>
+				<td id="c40"><div class="korong0"></div></td>
+				<td id="c41"><div class="korong0"></div></td>
+				<td id="c42"><div class="korong0"></div></td>
+				<td id="c43"><div class="korong0"></div></td>
+				<td id="c44"><div class="korong0"></div></td>
+				<td id="c45"><div class="korong0"></div></td>
+				<td id="c46"><div class="korong0"></div></td>
+				</tr><tr>
+				<td id="c50"><div class="korong0"></div></td>
+				<td id="c51"><div class="korong0"></div></td>
+				<td id="c52"><div class="korong0"></div></td>
+				<td id="c53"><div class="korong0"></div></td>
+				<td id="c54"><div class="korong0"></div></td>
+				<td id="c55"><div class="korong0"></div></td>
+				<td id="c56"><div class="korong0"></div></td>
+				</tr>
+				</table>
+
+				<table id="frametable">
+				<tr>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				</tr>
+				<tr>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				</tr>
+				<tr>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				</tr><tr>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				</tr><tr>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				</tr><tr>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				<td><div class="circle"></div></td>
+				</tr>
+				</table>
+
+				<div id="toptable">
+					<table>
+					<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					</tr>
+					<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					</tr>
+					<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					</tr>
+					<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					</tr>
+					<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					</tr>
+					<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					</tr>
+					</table>
+				</div>
+
+				<div id="touchtable">
+					<div id="t0"></div>
+					<div id="t1"></div>
+					<div id="t2"></div>
+					<div id="t3"></div>
+					<div id="t4"></div>
+					<div id="t5"></div>
+					<div id="t6"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+<input type="button" id="doge" value="Go Doge" onclick="goDoge()">
+<input type="button" id="stylegomb" value="Sötét stílus" onclick="switchstyle()">
+
+
+<script type="text/javascript" src="js.js"></script>
+<script type="text/javascript" src="style.js"></script>
+</body>
+</html>

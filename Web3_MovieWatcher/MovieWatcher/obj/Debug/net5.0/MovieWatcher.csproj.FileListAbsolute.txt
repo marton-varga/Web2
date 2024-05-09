@@ -1,0 +1,418 @@
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.json
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.exe
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.deps.json
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.json
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.dev.json
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\ref\MovieWatcher.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.AssemblyReference.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfoInputs.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfo.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\staticwebassets\MovieWatcher.StaticWebAssets.Manifest.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\staticwebassets\MovieWatcher.StaticWebAssets.xml
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\scopedcss\bundle\MovieWatcher.styles.css
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.input.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.output.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorCoreGenerate.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CopyComplete
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\ref\MovieWatcher.dll
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.genruntimeconfig.cache
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMovie.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\MyMovies.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\WatchList.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogInPost.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogOut.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\RegisterPost.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilm.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilmRequest.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMoviePost.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmRequest.cshtml.g.cs
+C:\Users\Gumi\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmPost.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.json
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.StaticWebAssets.xml
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.exe
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.deps.json
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.json
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.dev.json
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Humanizer.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.AssemblyReference.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfoInputs.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfo.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CoreCompileInputs.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\scopedcss\bundle\MovieWatcher.styles.css
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\staticwebassets\MovieWatcher.StaticWebAssets.Manifest.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.input.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.output.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorCoreGenerate.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMovie.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMoviePost.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilm.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilmRequest.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmPost.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmRequest.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\MyMovies.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\WatchList.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogInPost.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogOut.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\RegisterPost.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cs
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.Views.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CopyComplete
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\refint\MovieWatcher.dll
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.pdb
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.genruntimeconfig.cache
+D:\Desktop\University\Arc\ELTE\FSZ\3. félév\Tárgyak\Web3Cs\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\ref\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.json
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.StaticWebAssets.xml
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.exe
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.deps.json
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.json
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.dev.json
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.AssemblyReference.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfoInputs.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfo.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\scopedcss\bundle\MovieWatcher.styles.css
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\staticwebassets\MovieWatcher.StaticWebAssets.Manifest.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.input.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.output.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorCoreGenerate.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMovie.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMoviePost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilm.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilmRequest.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmRequest.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\MyMovies.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\WatchList.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogInPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogOut.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\RegisterPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cs
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CopyComplete
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\refint\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.genruntimeconfig.cache
+C:\Users\Zbook\Desktop\Bead\MovieWatcher\MovieWatcher\obj\Debug\net5.0\ref\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.json
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.StaticWebAssets.xml
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.exe
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.deps.json
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.json
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.dev.json
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.AssemblyReference.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfoInputs.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfo.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\scopedcss\bundle\MovieWatcher.styles.css
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\staticwebassets\MovieWatcher.StaticWebAssets.Manifest.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.input.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.output.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorCoreGenerate.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMovie.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMoviePost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilm.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilmRequest.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmRequest.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\MyMovies.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\WatchList.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogInPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogOut.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\RegisterPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cs
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CopyComplete
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\refint\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.genruntimeconfig.cache
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\ref\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Zbook\Desktop\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\appsettings.json
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.StaticWebAssets.xml
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.exe
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.deps.json
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.json
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.runtimeconfig.dev.json
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.AssemblyReference.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfoInputs.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.AssemblyInfo.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorAssemblyInfo.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\scopedcss\bundle\MovieWatcher.styles.css
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\staticwebassets\MovieWatcher.StaticWebAssets.Manifest.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.input.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.TagHelpers.output.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorCoreGenerate.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMovie.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\AddMoviePost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilm.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\DeleteFilmRequest.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\ModifyFilmRequest.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\MyMovies.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Movies\WatchList.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogIn.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogInPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\LogOut.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\Users\RegisterPost.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.RazorTargetAssemblyInfo.cs
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.Views.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.csproj.CopyComplete
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\refint\MovieWatcher.dll
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.pdb
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\MovieWatcher.genruntimeconfig.cache
+C:\Users\Zbook\Desktop\Web2\Cs\MovieWatcher\MovieWatcher\obj\Debug\net5.0\ref\MovieWatcher.dll

@@ -1,0 +1,191 @@
+/*HEADER*/
+body{
+	background-color: #011;
+	margin: 0px;
+	padding: 0px;
+}
+.hiba{
+	color: red;
+}
+
+header{
+	background-image: linear-gradient(midnightblue, darkslateblue, midnightblue);
+	border-bottom: 2px solid black;
+}
+header a, header a:link, header a:hover, header a:active{
+	color: inherit;
+	all: unset;
+}
+#logo{
+	height: max(8vw, min(60px));
+	padding-left: 10px;
+	float: left;
+}
+header nav{
+	float: right;
+}
+header nav span{
+	color: burlywood;
+	font-weight: bold;
+}
+h1{
+	display: inline-block;
+	margin: 0px;
+	font-size: max(5vw, min(37px));
+}
+
+/*SITES*/
+main{
+	background-color: gray;
+	margin: 1em;
+	margin-top: 3vw;
+	padding: 1em;
+	border: 3px inset beige;
+	border-radius: 5px;
+	overflow: hidden;
+}
+h2, h3{
+	text-align: center;
+}
+h3{
+	margin-top: -0.8em;
+	padding-top: 0px;
+}
+button, input[type="button"], input[type="submit"]{
+	background-image: radial-gradient(dimgrey, black);
+	color: white;
+	font-weight: bold;
+	border-radius: 4px;
+}
+button:hover, input:hover[type="button"], input:hover[type="submit"]{
+	background-image: radial-gradient(#999, #222);
+	color: white;
+	font-weight: bold;
+	border-radius: 4px;
+}
+/*index*/
+#indexmain table{
+	background-image: radial-gradient(darkkhaki, #9C9549);
+	margin: auto;
+	text-align: center;
+}
+#indexmain th, #indexmaintd{
+	width: 10em;
+}
+#indexmain table, #indexmain tr, #indexmain th, #indexmain td{
+	border: 2px outset darkseagreen;
+	border-collapse: collapse;
+}
+#indexmain th{
+	background-image: linear-gradient(steelblue, cadetblue);
+}
+
+/*belepes*/
+.loginbox{
+	width: 50%;
+	height: 50%;
+	margin: auto;
+	border: 2px solid red;
+	padding: 2.5%;
+	border: 3px inset beige;
+	background-color: darkgray;
+}
+.loginbox form{
+	text-align: center;
+}
+.loginbox form input[type="text"], #loginbox form input[type="password"]{
+	margin: 15px;
+}
+.loginbox form button, #loginbox form input[type="button"]{
+	margin: 20px;
+}
+.loginbox ul{
+	list-style-position: inside;
+	text-align: center;
+	color: red;
+	margin: 0px;
+}
+/*ujfilm*/
+#ujfilmbox input{
+	margin: 1em;
+}
+#ujfilm{
+	border: 2px inset beige;
+	margin-top:1em;
+}
+
+/*Jegyvasarlas*/
+#right, #left{
+	border: 2px inset beige;
+}
+.block{
+	width: 90%;
+	border: 4px outset beige;
+	margin: auto;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	padding: 0.3em;
+	background-color: silver;
+}
+#left{
+	width: 49%;
+	float: left;
+}
+#right{
+	width: 49%;
+	float: right;
+}
+#right ul{
+	list-style-position: inside;
+	padding-left: -0.3em;
+}
+
+#right form{
+	text-align: center;
+}
+#right form label.inplbl{
+	display: inline-block;
+	width: 17vw;
+	text-align: right;
+}
+#right form input.inp{
+	display: inline-block;
+	width: 10em;
+}
+#right form input[type="submit"]{
+	margin: 1em;
+}
+#kikvettek{
+	float: left;
+	width: 90%;
+}
+#kikvettek table, tr, td, th{
+	margin: auto;
+	background-image: radial-gradient(darkkhaki, #9C9549);
+	border: 2px outset beige;
+	border-collapse: collapse;
+	text-align: center;
+}
+#kikvettek th{
+	background-image: linear-gradient(steelblue, cadetblue);
+}
+
+
+/*siker*/
+#siker{
+	text-align: center;
+}
+
+/*MEDIA*/
+@media screen and (max-width: 580px){
+main{
+	overflow-x: auto;
+}
+#loginbox form input[type="text"], #loginbox form input[type="password"]{
+	margin: 2%;
+}
+aside{
+	float: none !important;
+	width: 100% !important;
+}
+}

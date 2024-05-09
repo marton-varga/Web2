@@ -1,0 +1,1 @@
+[{"email":"admin@mozi.hu","jelszo":"admin","nev":"Admin L\u00e1szl\u00f3","telefon":"123456789","jegyek":[]},{"email":"bela@bela.hu","jelszo":"bela","nev":"Leveli B\u00e9la","telefon":"987654321","jegyek":[[1,2],[3,4],[1,1]]},{"email":"kakas@bela.hu","jelszo":"kakas","nev":"Kakas K\u00e1lm\u00e1n","telefon":"123456789","jegyek":[]}]

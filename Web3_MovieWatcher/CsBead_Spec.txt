@@ -1,0 +1,86 @@
+FELADAT & BŐVÍTÉSEK
+- Adatbátisok
+- Új film, módosít, töröl
+- Listáz kategóriák szerint
+- Keresés szereplők alapján
+- XML export
++ felhasználó
++ keresés minden alapján
++ toWatch feature: külön added és watched date
+
+
+SITES
+(Index)
+
+Registration/Login
+-form[
+-username
+-name
+-email
+-password]
+
+MyFilms
+-search[all, title, category, director, actor]
+-list[title, groupByCategory]
+-table
+   -options: add, modify, remove
+-exportToXML
+
+AddFilm/ModifyFilm
+form[
+-title
+-year
+-style
+-add actors
+-date added
+-checkbox: towatch]
+
+ToWatchList
+-sameasMyFilms
++option: watchedButton
+
+
+
+
+DATABASE
+Film
+-id: int [auto]
+-title: string
+-year: int
+-style: string
+
+ActorInFilm
+-id
+-actorId
+-filmId
+
+DirectorInFilm
+-id
+-directorId
+-filmId
+
+Actor
+-id: int [auto]
+-name: string
+
+Director
+-id: int [auto]
+-name: string
+
+User
+-id [auto]
+-name: string
+-email: string
+-username: string
+-password: string
+
+UserWatched
+-id: int [auto]
+-userId: int
+-filmId: int
+-added: Date
+-watched: Date [nullable]
+
+
+
+

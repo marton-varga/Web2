@@ -1,0 +1,84 @@
+﻿@model MyMoviesViewModel
+@{
+    ViewData["Title"] = "Filmjeim";
+}
+<div class="insetContentMain">
+<h1>Megnézett filmek</h1>
+
+<div>
+    <div id="exportXMLDiv">
+        @using (Html.BeginForm("DownloadXML", "Movies", FormMethod.Post))
+        {
+            <input type="submit" value="Exportálás XML fájlba" />
+        }
+    </div>
+    <!--SEARCH-->
+    <div id="searchDiv">
+        @using (Html.BeginForm("MyMovies", "Movies", FormMethod.Post))
+        {
+            @Html.TextBoxFor(s => Model.searcher.keyWords)
+
+            @Html.DropDownListFor(s => Model.searcher.filter, new List<SelectListItem>{
+                new SelectListItem{Text="Cím", Value="TITLE", Selected=true },
+                new SelectListItem{Text="Műfaj", Value="STYLE"},
+                new SelectListItem{Text="Rendező", Value="DIRECTOR"},
+                new SelectListItem{Text="Színész", Value="ACTOR"}
+            })
+            <input type="submit" value="Keresés" />
+        }
+        <br />
+    </div>
+</div>
+
+
+<!--TABLE-->
+<table>
+    <tr>
+        <th>Cím</th>
+        <th>Kiadás éve</th>
+        <th>Műfaj</th>
+        <th>Rendező</th>
+        <th>Szereplők</th>
+        <th>Film hozzáadva</th>
+        <th>Módosítás</th>
+        <th>Törlés</th>
+    </tr>
+
+
+    @foreach (var f in Model.filmWrapper)
+    {
+        <tr>
+            <td>@f.Title</td>
+            <td>@f.Year</td>
+            <td>@f.Style</td>
+            <td>@f.Director</td>
+            <td>
+                @for (int i = 0; i < f.Actors.Count() - 1; i++)
+                {
+                    <span>@f.Actors.ElementAt(i) ,</span>
+                }
+                @if (f.Actors.Count() > 0)
+                {
+                    <span>@f.Actors.Last()</span>
+                }
+            </td>
+            <td>@f.Added</td>
+
+            <td>
+                @using (Html.BeginForm("ModifyFilmRequest", "Movies", FormMethod.Post))
+                {
+                    <input type="hidden" name="filmId" value="@f.Id">
+                    <input type="submit" value="Módosítás">
+                }
+            </td>
+            <td>
+                @using (Html.BeginForm("DeleteFilmRequest", "Movies", FormMethod.Post))
+                {
+                    <input type="hidden" name="filmId" value="@f.Id">
+                    <input type="submit" value="Törlés">
+                }
+            </td>
+        </tr>
+    }
+</table>
+    </div>
